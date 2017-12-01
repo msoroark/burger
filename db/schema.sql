@@ -17,3 +17,5 @@ PRIMARY KEY (id)
 
 
 
+INSERT INTO burger (burger_name, devoured) VALUES ("cheddar burger", FALSE);
+INSERT INTO burger (burger_name, devoured) VALUES ("bacon burger", FALSE);
